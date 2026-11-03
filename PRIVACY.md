@@ -9,4 +9,4 @@ This connector is for personal use by its owners only.
 
 Use and transfer of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.
 
-Contact: <YOUR EMAIL>
+Contact: nasrulhakim.adenan@gmail.com
